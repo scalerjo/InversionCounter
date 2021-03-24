@@ -4,7 +4,6 @@
  * Version     : 1.0
  * Date        : 10/30/2020
  * Description : Counts the number of inversions in an array.
- * Pledge      : I pledge my honor that I have abided by the Stevens Honor System.
  ******************************************************************************/
 #include <iostream>
 #include <algorithm>
